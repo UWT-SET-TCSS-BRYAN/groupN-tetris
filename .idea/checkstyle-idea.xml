@@ -5,7 +5,7 @@
     <scanScope>JavaOnly</scanScope>
     <option name="thirdPartyClasspath" />
     <option name="activeLocationIds">
-      <option value="bundled-sun-checks" />
+      <option value="e1d76bf4-efd5-48e8-8b74-f374bb6372dd" />
     </option>
     <option name="locations">
       <list>

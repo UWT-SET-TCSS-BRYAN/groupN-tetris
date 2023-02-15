@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <module type="JAVA_MODULE" version="4">
   <component name="CheckStyle-IDEA-Module" serialisationVersion="2">
-    <option name="activeLocationsIds" />
+    <option name="activeLocationsIds">
+      <option value="e1d76bf4-efd5-48e8-8b74-f374bb6372dd" />
+    </option>
   </component>
   <component name="EclipseModuleManager">
     <libelement value="jar://$MODULE_DIR$/wk.jar!/" />
