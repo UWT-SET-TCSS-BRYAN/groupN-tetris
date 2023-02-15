@@ -1,6 +1,7 @@
 import model.Board;
 
 public class SandBox {
+
     public static void main(final String[] theArgs) {
         Board b = new Board();
         b.newGame();
